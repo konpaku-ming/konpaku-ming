@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm an undergraduate in SJTU ACMClass<br><br>- ⚡ Interested in games and animations<br>- ✨ My name comes from Konpaku Youmu, one character of Touhou Project<br>- 📫 How to reach me: dxuanming@sjtu.edu.cn<br>- 🌐 Personal Website: <a href="https://your-website-url.com" target="_blank"> Youming's Gensokyo </a></p>
+<p align="left">I'm an undergraduate in SJTU ACMClass<br><br>- ⚡ Interested in games and animations<br>- ✨ My name comes from Konpaku Youmu, one character of Touhou Project<br>- 📫 How to reach me: dxuanming@sjtu.edu.cn<br>- 🌐 Personal Website: <a href="https://konpaku-ming.github.io" target="_blank"> Youming's Gensokyo </a></p>
 
 ###
 
