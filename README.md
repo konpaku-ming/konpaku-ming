@@ -42,10 +42,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/konpaku-ming/konpaku-ming/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/konpaku-ming/konpaku-ming/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/konpaku-ming/konpaku-ming/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+</p>
