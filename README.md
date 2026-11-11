@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I am Xuanming Ding（丁宣铭）, an undergraduate student in the ACM Honor Class at SJTU<br><br>I am currently studying computer science and conducting research on machine learning for audio at the <a href="https://x-lance.sjtu.edu.cn/" target="_blank">X-LANCE Lab</a>. I am particularly interested in general audio understanding and generation, as well as multi-speaker speech recognition.<br><br>- ⚡ Interested in games and animations<br>- ✨ My name comes from Konpaku Youmu, a character in Touhou Project<br>- 📫 How to reach me: dxuanming@sjtu.edu.cn<br>- 🌐 Academic Homepage: <a href="https://konpaku-ming.github.io/home/" target="_blank"> Xuanming Ding</a><br>- 📝 Blog: <a href="https://konpaku-ming.github.io/blog/" target="_blank"> Youming's Gensokyo </a></p>
+<p align="left">I am Xuanming Ding（丁宣铭）, an undergraduate student in the ACM Honor Class at SJTU<br><br>I am currently studying computer science and conducting research on computer audition at the <a href="https://x-lance.sjtu.edu.cn/" target="_blank">X-LANCE Lab</a>. I am particularly interested in general-purpose audio understanding and generation, as well as multi-speaker speech recognition.<br><br>- ⚡ Interested in games and animations<br>- ✨ My name comes from Konpaku Youmu, a character in Touhou Project<br>- 📫 How to reach me: dxuanming@sjtu.edu.cn<br>- 🌐 Academic Homepage: <a href="https://konpaku-ming.github.io/home/" target="_blank"> Xuanming Ding</a><br>- 📝 Blog: <a href="https://konpaku-ming.github.io/blog/" target="_blank"> Youming's Gensokyo </a></p>
 
 ###
 
